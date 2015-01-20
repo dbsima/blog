@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bogdan Sima</title>
+    <link href="http://dbsima.github.com/feed.xml" rel="self" />
+    <link href="http://dbsima.github.com/" />
+    <updated>2015-01-20T23:30:56+01:00</updated>
+    <id>http://dbsima.github.com/</id>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <author><name>dbsima</name></author>
+        <link href="http://dbsima.github.com/2014/hello-world.html"/>
+        <published>2014-01-20T00:00:00+01:00</published>
+        <updated>2015-01-20T23:30:56+01:00</updated>
+        <id>http://dbsima.github.com/2014/hello-world.html</id>
+        <category scheme="http://dbsima.github.com/tag/python/" term="python" label="python" />
+        <category scheme="http://dbsima.github.com/tag/code/" term="code" label="code" />
+        <content type="html" xml:base="http://dbsima.github.com" xml:lang="en">
+            <![CDATA[ <p>Hello World. This is a DEMO post.</p>
+]]>
+        </content>
+    </entry>
+</feed>
